@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-[https://mybinder.org/v2/gh/Thaanya95/Conda_binder_7030/py37_r353](https://mybinder.org/v2/gh/Thaanya95/Conda_binder_7030/py37_r353)
+https://mybinder.org/v2/gh/Thaanya95/Conda_binder_7030/py37_r353
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
