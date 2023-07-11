@@ -1,0 +1,10 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.ipynb_checkpoints/
+.jupyter-server-log.txt
+.jupyter/
+.local/
+.profile
